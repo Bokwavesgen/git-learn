@@ -17,8 +17,8 @@
     position: absolute;
     width: 90%;
     height: 90%;
-    top: 500px;
-    left: 0;
+    top: 0;
+    left: 5000px;
     z-index: 1;
 }
 .lp img {
@@ -57,7 +57,7 @@
 
 .lp:hover .kl{
 
-  top:0 ;
+  left: 0 ;
 }
 .kl::after{
 
